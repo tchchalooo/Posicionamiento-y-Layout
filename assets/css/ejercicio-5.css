@@ -1,0 +1,18 @@
+html {
+    margin: 50px;
+}
+.contenedor-padre {
+    width: 243px;
+    height: 285px;
+    border: 1px solid #808080;
+}
+.item {
+    position: absolute;
+
+}
+.oferta {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}

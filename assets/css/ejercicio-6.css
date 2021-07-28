@@ -1,0 +1,20 @@
+html {
+    margin: 50px;
+}
+.contenedor-padre {
+    width: 219px;
+    height: 257px;
+    border: 1px solid #808080;
+}
+.item {
+    position: absolute;
+
+}
+.ribbon-despacho {
+    position: relative;
+    width: 53px;
+    height: auto;
+    top: 151px;
+    left: 154px;
+    z-index: 2;
+}

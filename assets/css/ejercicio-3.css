@@ -1,0 +1,72 @@
+.tamaño {
+    height: 400px;
+    width: 600px;
+    border: 1px solid #808080;
+    float: left;
+    margin: 10px;
+}
+.españa-rojo {
+    background-color: red;
+}
+.españa-amarillo {
+    background-color: yellow;
+    height: 200px;
+    width: 600px;
+    position: absolute;
+    top: 110px;
+    z-index: 2;
+}
+.dinamarca-blanco {
+    background-color: white;
+}
+.margen-blanco-derecho {
+    margin-right: 50px;
+}
+.margen-blanco-superior {
+    margin-top: 50px;
+}
+.dinamarca-cuadrado {
+    background-color: red;
+    height: 175px;
+    width: 175px;
+    float: left;
+}
+.dinamarca-rectangulo {
+    background-color: red;
+    height: 175px;
+    width: 375px;
+    float: left;
+}
+.emiratos-rojo {
+    background-color: red;
+}
+.emiratos-verde {
+    background-color: green;
+    height: 133px;
+    width: 475px;
+    float: right;
+}
+.emiratos-blanco {
+    background-color: white;
+    height: 134px;
+    width: 475px;
+    float: right;
+}
+.emiratos-negro {
+    background-color: black;
+    height: 133px;
+    width: 475px;
+    float: right;
+}
+.japon-blanco {
+    background-color: white;
+}
+.japon-rojo {
+    background-color: red;
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    position: relative;
+    top: 112.5px;
+    left: 212.5px;
+}
