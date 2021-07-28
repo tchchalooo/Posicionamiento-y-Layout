@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding-left: 65px;
+    padding-right: 65px;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: black;
+    color: white;
+    top: 0;
+    height: 70px;
+}
+.titulo {
+    float: left;
+    padding-left: 1rem;
+    font-size: 2.1rem;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.menu {
+    box-sizing: border-box;
+    width: 33%;
+    float: left;
+    padding-left: 1rem;
+    background-color: #eeeeee;
+}
+.titulo-h2 {
+    font-size: 2rem;
+}
+.subtitulo {
+    box-sizing: border-box;
+    width: 67%;
+    float: right;
+    padding-left: 1rem;
+    font-size: 14px;
+}
+.footer {
+    background-color: #aaaaaa;
+    text-align: center;
+    padding-bottom: 1rem;
+    clear: both;
+}
